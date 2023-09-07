@@ -39,7 +39,7 @@ Em resumo, o Maven é uma ferramenta essencial no ecossistema Java e Spring Boot
 
 Apache Maven
 
-- <a heref="https://maven.apache.org/download.cgi">Download MAVEN</a>
+- <a href="https://maven.apache.org/download.cgi">Download MAVEN</a>
 - Configurar variáveis de ambiente do sistema
   - MAVEN_HOME:
     - C:/Program Files/Maven/apache-maven-3.8.5
